@@ -6,3 +6,5 @@
 .cardio{border-color:#688a45}.cardio summary{color:var(--accent)}
 
 .cardio h2{font-size:19px;color:var(--accent);margin:0}.cardio p{font-size:14px;line-height:1.8;color:var(--muted)}.hiit-option{padding:14px 0;border-top:1px solid #42503e}.hiit-option summary{cursor:pointer;padding:8px 0;font-size:15px}.hiit-option p{margin:12px 0}
+
+.cardio-instructions{white-space:pre-line}
