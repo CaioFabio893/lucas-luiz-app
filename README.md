@@ -1,10 +1,10 @@
-# Lucas • Hipertrofia e Evolução
+# Lucas • Força e Hipertrofia
 
 Aplicativo estático para GitHub Pages, instalável na tela inicial como PWA. Sem servidor, contas ou dependências de compilação.
 
 ## Conteúdo
 
-Ficha A/B/C/D de seis semanas extraída do protocolo enviado. Inclui aquecimento, aproximação, orientações de assimetria, deload com duas séries e as três opções de cardio. O modelo visual e funcional se inspira no Hardgainer; a ficha usada é a do documento do Lucas.
+Estrutura de aplicativo para força e hipertrofia. Orientações de correção de assimetria e protocolos de HIIT do projeto anterior foram removidos. A ficha A/B/C/D de seis semanas, o aquecimento, o deload e a tentativa de PR ainda são do anexo original; a escolha do conteúdo final da ficha está pendente.
 
 ## Publicar no GitHub Pages
 
