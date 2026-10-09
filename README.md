@@ -4,7 +4,7 @@ Aplicativo estático para GitHub Pages, instalável na tela inicial como PWA. Se
 
 ## Conteúdo
 
-Estrutura de aplicativo para força e hipertrofia. Orientações de correção de assimetria e protocolos de HIIT do projeto anterior foram removidos. A ficha A/B/C/D de seis semanas, o aquecimento, o deload e a tentativa de PR ainda são do anexo original; a escolha do conteúdo final da ficha está pendente.
+Estrutura de aplicativo para força e hipertrofia. Orientações de correção de assimetria e protocolos de HIIT do projeto anterior foram removidos. A estrutura, a ficha A/B/C/D de seis semanas, o aquecimento, o deload e os recursos do aplicativo foram mantidos conforme confirmado pelo usuário.
 
 ## Publicar no GitHub Pages
 
