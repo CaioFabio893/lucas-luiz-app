@@ -27,7 +27,9 @@ A existência dos 25 vídeos e a disponibilidade de HTML de incorporação foram
 
 ## Registros e cronômetro
 
-Cargas, repetições, séries concluídas, semana e vídeos são salvos no navegador. **Exportar registros** baixa uma cópia JSON; não há sincronização nem importação automática. Limpar os dados do navegador remove os registros.
+Cada exercício possui **Cadastrar PR do exercício**: registre a melhor carga em kg e as repetições, e toque em **Salvar PR**. O PR é independente da semana, mostra a data do registro e pode ser atualizado. Não calcula automaticamente percentuais ou 1RM.
+
+PRs, cargas, repetições, séries concluídas, semana e vídeos são salvos no navegador. **Exportar registros** baixa uma cópia JSON; não há sincronização nem importação automática. Limpar os dados do navegador remove os registros.
 
 Concluir uma série configura o descanso prescrito; toque em **Iniciar**. O cronômetro permite pausar, reiniciar e ajustar os segundos. Usa o horário de término para atualizar ao retornar de uma aba em segundo plano. Som e vibração dependem do dispositivo; não há garantia de alarme com tela bloqueada. Nos descansos em faixa, usa o menor valor.
 
